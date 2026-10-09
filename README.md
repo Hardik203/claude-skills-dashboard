@@ -3,6 +3,14 @@
 A local web dashboard for everything your Claude Code can load — personal skills, plugin skills,
 commands and agents — and what each one costs you in tokens.
 
+<p align="center">
+  <a href="https://github.com/Hardik203/claude-skills-dashboard/releases/download/v1.0.0/skills-dashboard-demo.mp4">
+    <img src="docs/demo.webp" width="100%" alt="29-second demo: the always-on token budget, disabling unused skills, installing skills from GitHub, the marketplace and dark mode">
+  </a>
+  <br>
+  <sub><a href="https://github.com/Hardik203/claude-skills-dashboard/releases/download/v1.0.0/skills-dashboard-demo.mp4">▶ Full video with sound (29 s, MP4)</a></sub>
+</p>
+
 - **See everything** installed, searchable and grouped into categories
 - **Enable / disable** any personal skill or plugin with a switch; **delete** to the Trash
 - **Install** skills from any GitHub repo (preview the skills in it and pick which ones) or plugins

@@ -6,3 +6,6 @@ dist/
 # Local tooling state — not part of the project
 .repowise/
 .claude/
+
+# Launch video output (large, regenerable)
+brag-output/
