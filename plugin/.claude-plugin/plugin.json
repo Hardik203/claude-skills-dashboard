@@ -1,0 +1,13 @@
+{
+  "name": "skills-dashboard",
+  "description": "A local web dashboard for your Claude Code skills and plugins: enable/disable, install from GitHub or marketplaces, delete, and see per-skill token cost and real usage.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Hardik203",
+    "url": "https://github.com/Hardik203"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/Hardik203/claude-skills-dashboard",
+  "repository": "https://github.com/Hardik203/claude-skills-dashboard",
+  "keywords": ["skills", "plugins", "dashboard", "tokens", "context", "management"]
+}

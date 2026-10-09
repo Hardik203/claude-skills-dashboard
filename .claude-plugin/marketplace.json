@@ -1,0 +1,22 @@
+{
+  "name": "claude-skills-dashboard",
+  "description": "A local dashboard to manage your Claude Code skills and plugins and see what they cost in tokens.",
+  "owner": {
+    "name": "Hardik203",
+    "url": "https://github.com/Hardik203"
+  },
+  "plugins": [
+    {
+      "name": "skills-dashboard",
+      "source": "./plugin",
+      "description": "Manage your Claude Code skills and plugins in a local web dashboard \u2014 toggles, installs, deletes, token costs and usage.",
+      "category": "productivity",
+      "keywords": [
+        "skills",
+        "plugins",
+        "dashboard",
+        "tokens"
+      ]
+    }
+  ]
+}
